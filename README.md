@@ -14,14 +14,20 @@ The raw sequence read data for this genome can be obtained from the NCBI Sequenc
 
 ## Genome Assemblies
 
-The raw genome assembly prior to NCBI submission can be found at Figshare under accession [XXX](www.google.com).
+The raw genome assembly prior to NCBI submission (FASTA format) can be found at Figshare under [accession doi 10.6084/m9.figshare.7640456](https://doi.org/10.6084/m9.figshare.7640456).
 
-The genome assembly has also been accessioned through NCBI under accession [XXX](www.google.com).
+The genome assembly (FASTA format) has also been accessioned through NCBI under accession [RJWH00000000](www.google.com).
 
 Note: NCBI filters away contigs and scaffolds based on certain criteria, so differences in the assemblies will exist. Moreover, the genome annotation described in the above publication (see below) is based on the pre-NCBI genome assembly.
 
 ## Genome Annotation
 
-Repeat and gene annotation files for the raw (pre-NCBI) genome assembly, which are described in the above publication, can be found at Figshare under accession [XXX](www.google.com). We have also created a [Genome Hub](https://genome.ucsc.edu/goldenpath/help/hgTrackHubHelp.html) that can be accessed through the UCSC
+Repeat and gene annotation files for the raw (pre-NCBI) genome assembly (GFF and FASTA files), which are described in the above publication, can be found at Figshare under [accession doi 10.6084/m9.figshare.7640456](https://doi.org/10.6084/m9.figshare.7640456). 
 
-NCBI also performs gene annotation via their [Eukaryotic Genome Annotation Pipeline](https://www.ncbi.nlm.nih.gov/genome/annotation_euk/process/) and the resulting annotation can be found under accession [XXX](www.google.com).
+We have also created a [Genome Hub](https://genome.ucsc.edu/goldenpath/help/hgTrackHubHelp.html) that can be accessed through the [UCSC Genome Browser](https://genome.ucsc.edu/cgi-bin/hgHubConnect), followed by clicking on the “My Hubs” tab and then copying the URL [https://de.cyverse.org/anon-files/iplant/home/darencard/solPar1_hub/assembly_hub.hub.txt](https://de.cyverse.org/anon-files/iplant/home/darencard/solPar1_hub/assembly_hub.hub.txt) and clicking “Add Hub”. 
+
+NCBI also generally performs gene annotation via their [Eukaryotic Genome Annotation Pipeline](https://www.ncbi.nlm.nih.gov/genome/annotation_euk/process/) and the resulting annotation can be found under accession [XXX](www.google.com).
+
+## Proteomic Data
+
+Mass spectrometry proteomics data (.mgf, .raw, .mzXML and PSM/ PrSM output files as well as deconvoluted spectra) have been deposited to [ProteomeXchange](http://proteomecentral.proteomexchange.org) with the accession [PXD009593](http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD009593) via the [Mass Spectrometry Interactive Virtual Environment (MassIVE)](https://massive.ucsd.edu/) with the accession [MSV000082307](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=04342867c1304a0dae67b886cce42605).
