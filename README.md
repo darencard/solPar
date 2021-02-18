@@ -6,7 +6,7 @@ Welcome to the data repository for the *Solenodon paradoxus* genome. See below f
 
 The data described below was published in the following paper. Please cite this publication when using these data.
 
-Casewell, N.R., D. Petras, D.C. Card, V. Suranse, A.M. Mychajliw, D. Richards, I. Koludarov, L.-O. Albulescu, J. Slagboom, B.-F. Hempel, N.M. Ngum, R.J Kennerley, J.L. Brocca, G. Whiteley, R.A. Harrison, F.M.S. Bolton, J. Debono, F.J. Vonk, J. Alföldi, J. Johnson, E. Karlsson, K. Lindblad-Toh, I. Mellor, R.D. Süssmuth, B.G. Fry, S. Kuruppu, W.C. Hodgson, J. Kool, T.A. Castoe, I. Barnes, K. Sunagar, E.A.B. Undheim, & S.T. Turvey. *In Prep.* Solenodon genome reveals convergent evolution of venom in eulipotyphlan mammals.
+Casewell, N.R., D. Petras, D.C. Card, V. Suranse, A.M. Mychajliw, D. Richards, I. Koludarov, L.-O. Albulescu, J. Slagboom, B.-F. Hempel, N.M. Ngum, R.J Kennerley, J.L. Brocca, G. Whiteley, R.A. Harrison, F.M.S. Bolton, J. Debono, F.J. Vonk, J. Alföldi, J. Johnson, E. Karlsson, K. Lindblad-Toh, I. Mellor, R.D. Süssmuth, B.G. Fry, S. Kuruppu, W.C. Hodgson, J. Kool, T.A. Castoe, I. Barnes, K. Sunagar, E.A.B. Undheim, & S.T. Turvey. *2019*. Solenodon genome reveals convergent evolution of venom in eulipotyphlan mammals. *Proceedings of the National Academy of Sciences* 116(51): 25745-25755. [https://doi.org/10.1073/pnas.1906117116](https://doi.org/10.1073/pnas.1906117116)
 
 ## Raw Sequencing Data
 
