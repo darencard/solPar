@@ -10,7 +10,7 @@ Casewell, N.R., D. Petras, D.C. Card, V. Suranse, A.M. Mychajliw, D. Richards, I
 
 ## Raw Sequencing Data
 
-The raw sequence read data for this genome can be obtained from the NCBI Sequence Read Archive under accession [XXX](FIXME).
+The raw sequence read data for this genome can be obtained from the NCBI Sequence Read Archive under accession [SRR14571478](https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR14571478).
 
 ## Genome Assemblies
 
